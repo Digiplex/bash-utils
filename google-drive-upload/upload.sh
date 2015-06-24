@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Upload a file to Google Drive
-#
+
 # Usage: upload.sh <access_token> <file> [title] [path] [mime]
 
 set -e
